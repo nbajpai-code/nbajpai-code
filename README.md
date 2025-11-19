@@ -91,7 +91,7 @@ Interested in AI/ML, research automation, or tech certifications? Feel free to e
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/nbajpai-code/count.svg)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nbajpai-code.nbajpai-code)
 
 **Last Updated:** ![Last Update](https://img.shields.io/github/last-commit/nbajpai-code/nbajpai-code?label=Profile%20Updated&style=flat-square)
 
