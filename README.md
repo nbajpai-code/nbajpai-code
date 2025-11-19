@@ -1,0 +1,98 @@
+# Hi there! 👋 I'm Niraj Bajpai
+
+![Profile Views](https://komarev.com/ghpvc/?username=nbajpai-code&color=blueviolet&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/nbajpai-code?label=Followers&style=social)](https://github.com/nbajpai-code?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/nbajpai-code?label=Stars&style=social)](https://github.com/nbajpai-code?tab=repositories)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nbajpai-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nbajpai-code&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nbajpai-code&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🗂️ Repository Index
+
+### 🌟 Featured Projects
+
+#### 🎮 Games & Interactive
+- **[games](https://github.com/nbajpai-code/games)** - Interactive HTML5 games collection
+  - Snake Game with modern graphics and progressive difficulty
+
+#### 📚 Research & Learning
+- **[my-starred-repos](https://github.com/nbajpai-code/my-starred-repos)** - Curated collection of starred repositories
+  - Automated arXiv daily paper crawler
+  - IT certification deals tracker
+  - Comprehensive tech resources across AI/ML, Security, Networking, and more
+  - [View Index](https://github.com/nbajpai-code/my-starred-repos/blob/master/STARRED-INDEX.md)
+
+### 📁 All Repositories
+
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=my-starred-repos&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/my-starred-repos)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=games&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/games)
+
+</div>
+
+## 🔥 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nbajpai-code&theme=tokyo-night&hide_border=true)](https://github.com/nbajpai-code)
+
+## 🎯 Areas of Interest
+
+```javascript
+const niraj = {
+    interests: [
+        "Artificial Intelligence & Machine Learning",
+        "Large Language Models (LLMs)",
+        "MLOps & AIOps",
+        "Cybersecurity & DevSecOps",
+        "Networking & Observability",
+        "Systems Programming",
+        "IT Certifications",
+        "Research Papers (arXiv)",
+        "Prompt Engineering"
+    ],
+    currentlyLearning: [
+        "Advanced AI/ML techniques",
+        "Microsoft Fabric Analytics (DP-600)",
+        "Cloud architecture & automation"
+    ],
+    automations: [
+        "Daily arXiv paper crawler",
+        "GitHub repository curation",
+        "IT certification deals tracker"
+    ]
+};
+```
+
+## 📈 Contribution Stats
+
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=nbajpai-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+## 🔗 Quick Links
+
+- 📚 [Curated Repository Index](https://github.com/nbajpai-code/my-starred-repos/blob/master/STARRED-INDEX.md)
+- 📰 [Latest IT Certification Deals](https://github.com/nbajpai-code/my-starred-repos/blob/master/LATEST-IT-CERTS-DEALS.md)
+- 🎓 [arXiv Daily Papers](https://github.com/nbajpai-code/my-starred-repos)
+- 🎮 [Play Snake Game](https://nbajpai-code.github.io/games/snake.html)
+
+## 🤝 Connect & Collaborate
+
+Interested in AI/ML, research automation, or tech certifications? Feel free to explore my repositories and reach out!
+
+---
+
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/nbajpai-code/count.svg)
+
+**Last Updated:** ![Last Update](https://img.shields.io/github/last-commit/nbajpai-code/nbajpai-code?label=Profile%20Updated&style=flat-square)
+
+</div>
