@@ -87,6 +87,17 @@ const niraj = {
 
 Interested in AI/ML, research automation, or tech certifications? Feel free to explore my repositories and reach out!
 
+### 🔗 Quick Share Links
+
+Use these short URLs to quickly share my GitHub profile and projects:
+
+| Resource | Short URL | QR Code |
+|----------|-----------|---------|
+| **GitHub Profile** | [tinyurl.com/25329c8g](https://tinyurl.com/25329c8g) | ![QR](https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=https://tinyurl.com/25329c8g) |
+| **Starred Repos** | [tinyurl.com/2dqnu7pr](https://tinyurl.com/2dqnu7pr) | ![QR](https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=https://tinyurl.com/2dqnu7pr) |
+| **Games** | [tinyurl.com/2a3xb6oy](https://tinyurl.com/2a3xb6oy) | ![QR](https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=https://tinyurl.com/2a3xb6oy) |
+| **Snake Game** | [tinyurl.com/27wzhchg](https://tinyurl.com/27wzhchg) | ![QR](https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=https://tinyurl.com/27wzhchg) |
+
 ---
 
 <div align="center">
