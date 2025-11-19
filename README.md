@@ -91,8 +91,9 @@ Interested in AI/ML, research automation, or tech certifications? Feel free to e
 
 <div align="center">
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=nbajpai-code%2Fnbajpai-code&label=Profile%20Visitors&countColor=%23263759&style=flat)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=nbajpai-code.nbajpai-code&label=Profile%20Views&labelColor=%23697689&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=nbajpai-code.nbajpai-code)
+![Last Commit](https://img.shields.io/github/last-commit/nbajpai-code/nbajpai-code?label=Updated&style=flat-square&color=blueviolet)
 
-**Last Updated:** ![Last Update](https://img.shields.io/github/last-commit/nbajpai-code/nbajpai-code?label=Updated&style=flat-square&color=blueviolet)
+**Thank you for visiting!** 🚀
 
 </div>
