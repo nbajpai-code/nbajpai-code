@@ -20,7 +20,7 @@ Welcome to my github page
 
 ### 🌟 Featured Projects
 
-Github Blog: https://github.blog/news-insights/
+🌟 🌟 🌟 🌟 🌟 Github Blog: https://github.blog/news-insights/
 
 #### 🎮 Games & Interactive
 - **[games](https://github.com/nbajpai-code/games)** - Interactive HTML5 games collection
