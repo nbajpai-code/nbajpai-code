@@ -37,14 +37,14 @@ Welcome to my github page
 
 <div align="center">
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=dp600&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/dp600)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=mf&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/mf)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=my-starred-repos&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/my-starred-repos)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=latest-it-cert-deals&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/latest-it-cert-deals)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=nbajpai-code&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/nbajpai-code)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=tb&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/tb)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=mf&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/mf)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=ipynb-datascience&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/ipynb-datascience)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=nbajpai-code&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/nbajpai-code)
 
 </div>
 
@@ -118,6 +118,8 @@ Use these short URLs to quickly share my GitHub profile and projects:
 *Last auto-updated: 2025-11-24 04:23:01 UTC*
 
 *Last auto-updated: 2025-11-25 00:42:27 UTC*
+
+*Last auto-updated: 2025-11-26 00:43:53 UTC*
 
 **Thank you for visiting!** 🚀
 
