@@ -139,7 +139,11 @@ def update_readme():
         )
         print("✅ Updated repository cards")
     
-    # Update last commit badge timestamp (it's already dynamic via badge, but we can add a footer)
+    # Update last commit badge timestamp
+    # First, remove all existing timestamp lines to prevent duplicates
+    readme = re.sub(r'\*Last auto-updated:.*?\*\n\n', '', readme)
+    
+    # Now add the new timestamp before "Thank you for visiting!"
     footer_pattern = r'(\*\*Thank you for visiting!\*\* 🚀)'
     footer_replacement = f'*Last auto-updated: {timestamp}*\n\n\\1'
     
