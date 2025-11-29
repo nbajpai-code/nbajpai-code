@@ -114,7 +114,7 @@ Use these short URLs to quickly share my GitHub profile and projects:
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=nbajpai-code.nbajpai-code&label=Profile%20Views&labelColor=%23697689&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=nbajpai-code.nbajpai-code)
 ![Last Commit](https://img.shields.io/github/last-commit/nbajpai-code/nbajpai-code?label=Updated&style=flat-square&color=blueviolet)
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=-NmP1zCjwKKWJB-FCjA0X-my-g7DIpj-T-FTlaIl8OQ&cl=ffffff&w=a"></script>
+![Visitors (id="mapmyvisitors" https://mapmyvisitors.com/map.js?d=-NmP1zCjwKKWJB-FCjA0X-my-g7DIpj-T-FTlaIl8OQ&cl=ffffff&w=a)
 
 
 
