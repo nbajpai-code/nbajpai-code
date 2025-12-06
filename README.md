@@ -1,5 +1,4 @@
 ##     Hello there! 👋
-!## Welcome to my github page - Please checkout the cool space link here https://www.hera.space
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nbajpai-code&color=blueviolet&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/nbajpai-code?label=Followers&style=social)](https://github.com/nbajpai-code?tab=followers)
