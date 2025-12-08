@@ -37,14 +37,14 @@
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=nbajpai-code&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/nbajpai-code)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=r&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/r)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=tc&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/tc)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=bm&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/bm)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=tsa&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/tsa)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=latest-it-cert-deals&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/latest-it-cert-deals)
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=my-starred-repos&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/my-starred-repos)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=jobs&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/jobs)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=tn&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/tn)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=tb&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/tb)
 
 </div>
 
@@ -114,7 +114,7 @@ Use these short URLs to quickly share my GitHub profile and projects:
 ![Last Commit](https://img.shields.io/github/last-commit/nbajpai-code/nbajpai-code?label=Updated&style=flat-square&color=blueviolet)
 
 
-*Last auto-updated: 2025-12-07 00:50:31 UTC*
+*Last auto-updated: 2025-12-08 00:45:29 UTC*
 
 **Thank you for visiting!** 🚀
 
