@@ -3,6 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=nbajpai-code&color=blueviolet&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/nbajpai-code?label=Followers&style=social)](https://github.com/nbajpai-code?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/nbajpai-code?label=Stars&style=social)](https://github.com/nbajpai-code?tab=repositories)
+[![LinkedIn](https://www.linkedin.com/in/nirajbajpai)
 
 ## 📊 GitHub Stats
 
