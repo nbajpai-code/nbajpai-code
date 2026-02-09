@@ -38,14 +38,14 @@
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=deepMind&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/deepMind)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=NvidiaDC&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/NvidiaDC)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=tsa&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/tsa)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=bm&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/bm)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=HPEDC&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/HPEDC)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=DellDC&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/DellDC)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=tc&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/tc)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=td&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/td)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=JuniperDC&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/JuniperDC)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=AristaDC&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/AristaDC)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=ma&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/ma)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=sl&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/sl)
 
 </div>
 
@@ -115,7 +115,7 @@ Use these short URLs to quickly share my GitHub profile and projects:
 ![Last Commit](https://img.shields.io/github/last-commit/nbajpai-code/nbajpai-code?label=Updated&style=flat-square&color=blueviolet)
 
 
-*Last auto-updated: 2026-02-08 01:15:45 UTC*
+*Last auto-updated: 2026-02-09 01:02:23 UTC*
 
 **Thank you for visiting!** 🚀
 
