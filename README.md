@@ -38,14 +38,14 @@
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=tsa&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/tsa)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=bm&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/bm)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=my-starred-repos&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/my-starred-repos)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=agenticSOC&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/agenticSOC)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=tc&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/tc)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=td&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/td)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=latest-it-cert-deals&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/latest-it-cert-deals)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=jobs&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/jobs)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=ma&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/ma)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=sl&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/sl)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=tn&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/tn)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=tb&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/tb)
 
 </div>
 
@@ -115,7 +115,7 @@ Use these short URLs to quickly share my GitHub profile and projects:
 ![Last Commit](https://img.shields.io/github/last-commit/nbajpai-code/nbajpai-code?label=Updated&style=flat-square&color=blueviolet)
 
 
-*Last auto-updated: 2026-02-09 01:02:23 UTC*
+*Last auto-updated: 2026-02-10 01:10:45 UTC*
 
 **Thank you for visiting!** 🚀
 
