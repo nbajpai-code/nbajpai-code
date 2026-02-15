@@ -10,7 +10,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nbajpai-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nbajpai-code&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=nbajpai-code&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nbajpai-code&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -97,3 +97,4 @@ Interested in AI/ML, research automation, or tech certifications? Feel free to e
 **Thank you for visiting!** 🚀
 
 </div>
+
