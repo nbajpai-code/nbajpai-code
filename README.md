@@ -38,13 +38,13 @@
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=dp600&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/dp600)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=product&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/product)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=observability&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/observability)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=pt&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/pt)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=nbajpai-code&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/nbajpai-code)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=aiclub&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/aiclub)
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=ts&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/ts)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=my-starred-repos&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/my-starred-repos)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=agenticSOC&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/agenticSOC)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=latest-it-cert-deals&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/latest-it-cert-deals)
 
 </div>
@@ -115,7 +115,7 @@ Use these short URLs to quickly share my GitHub profile and projects:
 ![Last Commit](https://img.shields.io/github/last-commit/nbajpai-code/nbajpai-code?label=Updated&style=flat-square&color=blueviolet)
 
 
-*Last auto-updated: 2026-02-16 01:01:20 UTC*
+*Last auto-updated: 2026-02-17 01:00:19 UTC*
 
 **Thank you for visiting!** 🚀
 
