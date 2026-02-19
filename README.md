@@ -45,7 +45,7 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=tn&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/tn)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=agenticSOC&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/agenticSOC)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=tb&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/tb)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nbajpai-code&repo=dp600&theme=tokyonight&hide_border=true)](https://github.com/nbajpai-code/dp600)
 
 </div>
 
@@ -115,7 +115,7 @@ Use these short URLs to quickly share my GitHub profile and projects:
 ![Last Commit](https://img.shields.io/github/last-commit/nbajpai-code/nbajpai-code?label=Updated&style=flat-square&color=blueviolet)
 
 
-*Last auto-updated: 2026-02-18 01:02:32 UTC*
+*Last auto-updated: 2026-02-19 01:01:31 UTC*
 
 **Thank you for visiting!** 🚀
 
